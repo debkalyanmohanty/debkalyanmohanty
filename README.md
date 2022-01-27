@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debkalyanmohanty
 - 👀 I’m interested in contributing to open source .
 - 🌱 I’m currently learning BTECH in Information Technology .
-- 💞️ I’m looking to collaborate on gmail on my acoount debkalyanmohanty.id@gmail.com
+- 💞️ I’m looking to collaborate on gmail on my account debkalyanmohanty.id@gmail.com
 - 📫 How to reach me  by messaging me on instragram my account is debkalyan.mohanty
 
 <!---
