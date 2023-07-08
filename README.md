@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deb Kalyan Mohanty</h1>
-<h3 align="center">A Enthusiasctic Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debkalyanmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="debkalyanmohanty" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debkalyanmohanty" alt="debkalyanmohanty" /></a> </p>
+<h3 align="center">An Enthusiasctic Full Stack Developer</h3>
 
 - 🔭 I’m currently working in **MarkoKnow**
 
@@ -23,7 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debkalyanmohanty&show_icons=true&locale=en" alt="debkalyanmohanty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debkalyanmohanty&" alt="debkalyanmohanty" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=debkalyanmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="debkalyanmohanty" /> </p>
 <!---
 debkalyanmohanty/debkalyanmohanty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
